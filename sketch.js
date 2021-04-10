@@ -37,7 +37,9 @@ function draw() {
   foodObj.display();
 
   //write code to read fedtime value from the database 
-  
+  function feedDog(){
+    dog.addImage(happyDog)
+  }
  
   //write code to display text lastFed time here
 
